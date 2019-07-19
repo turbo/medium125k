@@ -1,6 +1,6 @@
 # medium125k
 
-This is a data set of more than 125,000 titles and subtitles of post published at [medium.com](https://medium.com). The data is formatted as CSV and the columns are: 
+This is a data set of more than 125,000 titles and subtitles of articles published at [medium.com](https://medium.com). The data is formatted as CSV and the columns are: 
 <br>
 <br>
 
